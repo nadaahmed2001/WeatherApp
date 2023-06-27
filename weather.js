@@ -3,7 +3,7 @@ function convert(val) {//converts kelvin to celsius
   }
   
   let weather = {
-    apiKey: "YOUR API KEY", //////////////////
+    apiKey: "YOUR API KEY", /////////////////////////ENTER YOUR API KEY HERE/////////////////////////
     fetchWeather: function(city, icon) {
       fetch(
         "https://api.openweathermap.org/data/2.5/weather?q=" +
