@@ -1,9 +1,10 @@
 # Weather App
-A simple weather app using HTML,CSS,JS written from scratch
+- A simple weather app using HTML,CSS,JS written from scratch
+- Uses API, and User Data to to dynamically update the UI
 
-![Capture1](https://github.com/nadaahmed2001/WeatherApp/assets/60941223/63453f27-08a2-48a0-8ba6-809b1b188528)
-![Capture2](https://github.com/nadaahmed2001/WeatherApp/assets/60941223/cba0c0ca-b6c5-4c1a-a558-281f61dfd257)
+![Capture1](https://github.com/nadaahmed2001/WeatherApp/assets/60941223/863417d5-6be7-4697-aaa3-89ec5a018c22)
+![Capture2](https://github.com/nadaahmed2001/WeatherApp/assets/60941223/3a277bcb-efc9-473c-a138-f9ba56b1b641)
 
-- **Used OpenWeatherMap API to retrieve weather data for the specified city.**
+- **Used OpenWeatherMap API to retrieve weather data for the specified city an uses .**
 - **Make sure to replace `YOUR_API_KEY` with your actual OpenWeatherMap API key in the `weather.js` file.**
   
