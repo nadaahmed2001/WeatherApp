@@ -6,5 +6,5 @@
 ![Capture2](https://github.com/nadaahmed2001/WeatherApp/assets/60941223/3a277bcb-efc9-473c-a138-f9ba56b1b641)
 
 - **Used OpenWeatherMap API to retrieve weather data for the specified city.**
-- **Make sure to replace `apikey` with your actual OpenWeatherMap API key in the `weather.js` file.**
+- **Make sure to replace `apiKey` with your actual OpenWeatherMap API key in the `weather.js` file.**
   
