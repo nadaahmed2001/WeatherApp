@@ -4,7 +4,7 @@ function convert(val) {
 }
 
 let weather = {
-  apiKey: "40c757d25641bc0a9f721c1cfb938902",
+  apiKey: "PUT YOUR API KEY HERE",
   fetchWeather: function (city, icon) {
     fetch(
       "https://api.openweathermap.org/data/2.5/weather?q=" +
